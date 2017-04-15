@@ -1,0 +1,2 @@
+# ComicLog
+ComicLog
